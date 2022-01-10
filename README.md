@@ -2,6 +2,10 @@
  
 In this series I will upload my day to day workflow in this Repository. Its not just about coding but also the aptitude questions. Basically a Placement exam ready student. I will also guide you in solving aptitude questions asked in most of the service based mnc companies.
 
+## Check out some important links
+[Everything about Aptitude](https://docs.google.com/document/d/10Q5_CxMXODsFiNULTwESY4UtqbQ8_ZYWIG56_N1BMYQ/edit?usp=sharing)
+[Everything about Coding(from basics)](https://colab.research.google.com/drive/1033vAriXp9xDbyx3T1MNqtexYMdK-kPD#scrollTo=mVQpVJy7rmYJ)
+
 ## My Tech Toolbox 🧰
 
 <p align="left">
